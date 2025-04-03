@@ -2,3 +2,29 @@
   margin: 0;
   padding: 0;
 }
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url("https://avatars.mds.yandex.net/i?id=d1445dbbbc73c69785f9778cb9091ad7ff4c7006-3931956-images-thumbs&n=13");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+form {
+  -webkit-box-shadow: 8px 8px 27px 18px rgba(66, 68, 90, 1);
+  -moz-box-shadow: 8px 8px 27px 18px rgba(66, 68, 90, 1);
+  box-shadow: 8px 8px 27px 18px rgba(66, 68, 90, 1);
+  padding: 20px;
+}
+h1 {
+  margin-left: 0px;
+  margin-bottom: 10px;
+}
+.block {
+  display: flex;
+}
+.pole {
+  display: block;
+  width: 200px;
+}

@@ -1,8 +1,6 @@
 # Classwork
 
-Classwork
-
-## классные работы
+## Классные работы
 
 ## html+css
 
